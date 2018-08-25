@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# IDE
+.idea/
+
+# project specific
+pages/
+wiki/
+outfile.json
+tiddler_import.json

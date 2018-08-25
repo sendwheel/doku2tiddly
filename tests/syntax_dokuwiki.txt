@@ -1,0 +1,53 @@
+====== Header 1 ======
+
+Some default copy text to fill a paragraph
+
+===== Header 2 =====
+
+==== Header 3 ====
+
+=== Header 4 ===
+
+== Header 5 ==
+
+**bold**, //italic//, __underlined__ and ''monospaced'' texts.
+
+You can use <sub>subscript</sub> and <sup>superscript</sup>, too.
+
+horizontal rule
+----
+
+hrule w/ space
+ ----
+
+  * This is a list
+  * The second item
+    * You may have different levels
+      * third level
+      * third level
+  * Another item
+
+  - The same list but ordered
+  - Another item
+    - Just use indentation for deeper levels
+  - That's it
+
+
+^ Heading 1      ^ Heading 2       ^ Heading 3          ^
+| Row 1 Col 1    | Row 1 Col 2     | Row 1 Col 3        |
+| Row 2 Col 1    | some colspan (note the double pipe) ||
+| Row 3 Col 1    | Row 3 Col 2     | Row 3 Col 3        |
+
+<code>
+some mono  spa ce
+text
+
+or code snip
+</code>
+
+<code javascript>
+code with
+language identified
+</code>
+
+

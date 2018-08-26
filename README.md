@@ -46,3 +46,5 @@ For Example `doku2tiddly.py --syntaxtest tests/syntax_dokuwiki.txt`
 * doku2tiddly has been tested with Python 3.6 and 3.7
 * Tested with syntax style up to DokuWiki 2018-04-22a "Greebo"
 * Tested import logic and syntax style for TiddlyWiki 5.1.17
+
+Credit to [ccpizza](https://github.com/ActiveState/code/tree/master/recipes/Python/580653_Recursive_find_replace_files_using) for directory walk logic
